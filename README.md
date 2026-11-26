@@ -15,8 +15,8 @@ I'm particularly interested in Computer Vision, Natural Language Processing (NLP
 - **Web Development:** HTML, CSS, JavaScript
 - **IoT & Embedded Systems:** ESP8266 (NodeMCU), ESP32, Arduino IDE, MPU6050, GPS Module
 - **Tools & Platforms:** Git, GitHub, VS Code, Replit, IBM SkillsBuild
-- **AI-Assisted Development:**AI tools for website creation, application prototyping, and development workflows
-  
+- **AI-Assisted Development:** AI tools for website creation, application prototyping, and development workflows
+
 ## 🚀 Projects
 
 ### GestureSync
