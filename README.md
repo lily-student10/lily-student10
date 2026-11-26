@@ -9,10 +9,13 @@ I'm particularly interested in Computer Vision, Natural Language Processing (NLP
 ## 🛠️ Skills & Tools
 
 - **Programming Languages:** Python, C
-- **Machine Learning:** TensorFlow
-- **Computer Vision:** OpenCV
+- **AI & Machine Learning:** TensorFlow, Machine Learning, CNN
+- **Computer Vision:** OpenCV, Image Classification, Object Detection
 - **Data Analysis:** NumPy, Pandas
-- **Development Tools:** Git, GitHub
+- **Web Development:** HTML, CSS, JavaScript
+- **IoT & Embedded Systems:** ESP8266 (NodeMCU), ESP32, Arduino IDE, MPU6050, GPS Module
+- **Tools & Platforms:** Git, GitHub, VS Code, Replit, IBM SkillsBuild
+- **AI-Assisted Development:** Using AI tools for application development and prototyping
 
 ## 🚀 Projects
 
@@ -25,6 +28,12 @@ An AI- and IoT-based gesture recognition system that uses an ESP32 and an MPU605
 ### ResolveAI
 
 An instructor-assigned project focused on using AI tools effectively to build a useful web application. I developed a frontend prototype of a complaint management platform designed to make complaint submission and tracking more accessible. Through this project, I gained hands-on experience with AI-assisted development and learned how to use AI tools to turn an idea into a practical application.
+
+### SakhiSafe
+
+An IoT-based personal safety alert system built using a NodeMCU microcontroller. It uses a push button to trigger emergency notifications through ntfy, helping send alerts quickly when assistance is needed. I'm currently working on integrating a GPS module to include location information in the alerts.
+
+**Technologies:** NodeMCU (ESP8266), Arduino IDE, ntfy, GPS Module
 
 ## 🎓 Learning & Experience
 
